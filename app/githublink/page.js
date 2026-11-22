@@ -7,7 +7,10 @@ export default function GitHubLinkPage() {
         database to store and retrieve information. I plan to showcase this
         by building pages that display data from MariaDB using PHP. The code
         for this Next.js assignment is in my{" "}
-        <a href="https://github.com/sunset3512/nextjs_hw">
+        <a 
+			href="https://github.com/sunset3512/nextjs_hw"
+			style={{ textDecoration: "underline" }}
+		>
           public GitHub repository
         </a>.
       </p>
